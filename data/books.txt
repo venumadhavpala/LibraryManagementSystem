@@ -1,0 +1,4 @@
+103.1,Clean Code,Robert C. Martin,true,-,1,1,1
+101.1,Java Programming,James Gosling,true,-,1,1,2
+102.2,Python Programming,Gudio Van Rossum,true,-,1,1,3
+102.1,Python Programming,Gudio Van Rossum,true,-,1,1,4

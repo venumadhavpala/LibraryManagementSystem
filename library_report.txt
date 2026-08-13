@@ -1,0 +1,48 @@
+=========================================
+        LIBRARY REPORT
+=========================================
+
+Total Books: 4
+Total Members: 2
+
+========== BOOKS ==========
+
+Book ID: 103.1
+Title: Clean Code
+Author: Robert C. Martin
+Status: Available
+Location: Rack-A | Row-01 | Slot-01
+-------------------------
+
+Book ID: 101.1
+Title: Java Programming
+Author: James Gosling
+Status: Available
+Location: Rack-A | Row-01 | Slot-02
+-------------------------
+
+Book ID: 102.2
+Title: Python Programming
+Author: Gudio Van Rossum
+Status: Available
+Location: Rack-A | Row-01 | Slot-03
+-------------------------
+
+Book ID: 102.1
+Title: Python Programming
+Author: Gudio Van Rossum
+Status: Available
+Location: Rack-A | Row-01 | Slot-04
+-------------------------
+
+========== MEMBERS ==========
+
+Member ID: 1
+Name: Venu
+Email: venu@gmail.com
+-------------------------
+
+Member ID: 2
+Name: ravi
+Email: ravi@gmail.com
+-------------------------
